@@ -5,7 +5,7 @@ This project analyze Amazon reviews written by members of paid Amazon Vine progr
 At the end we will use PySpark to determine if there is any bias toward favorable reviews from Vine members in the dataset.
 
 ### Data Source:
-* Video Games Review Datasets[https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz]
+* [Video Games Review Datasets](https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
 
 ## Results
 ### Total Number of Reviews
